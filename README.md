@@ -1,4 +1,3 @@
-# Analyse_marketing
 # Analyse de Campagne Marketing - Prédiction de Comportement
 
 ##  Présentation du Projet
